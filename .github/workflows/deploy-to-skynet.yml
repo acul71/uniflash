@@ -17,8 +17,8 @@ jobs:
       #- run: yarn
       #- run: yarn build
       - run: cp index.html build
-      - run: cp logo.png build
-      - run: cp manifest.json build
+      - run: cp public/logo.png build
+      - run: cp public/manifest.json build
 
       - name: "Deploy to Skynet"
         uses: SkynetLabs/deploy-to-skynet-action@v2
