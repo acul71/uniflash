@@ -1,0 +1,18 @@
+{
+  "short_name": "uniflash",
+  "name": "uniflash",
+  "description": "uniflash",
+  "icons": [
+    
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "88x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "skylink": "AQD4ekuB24WBrGT0z_x9XiX4MAYHKTfKz14AVC3mB43Smg"
+}
