@@ -2,10 +2,10 @@
 
 # UniFlash
 flashloan example
-1) It borrows from Unsswap DAI/USDC 0.05% pool fee
+1) It borrows from Uniswap DAI/USDC 0.05% pool fee
 2) Swaps 1500 DAI for 55.66 UNI on Kyber
 3) Swap 55.66 UNI for 1505.61 DAI on Uniswap
-4) Payback 4.86 DAI (profit) to deployer and give back 1500+0.05% fee to Uniswap
+4) Payback 4.86 DAI (profit) to deployer and give back 1500 DAI + 0.05% fee to Uniswap
 
 # Source code of contracts
 https://github.com/yuichiroaoki/flash-swap-example
